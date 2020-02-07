@@ -2,6 +2,8 @@
 Bot monitors status.cloud.yandex.ru for new unresolved incidents
 and sends alerts to specified Telegram chat or group.
 
+Original Yandex Cloud Status Telegram channel - https://t.me/YandexCloudStatus
+
 ### How to use
 Create your own Telegram bot with BotFather
 
