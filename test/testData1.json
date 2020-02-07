@@ -1,0 +1,1056 @@
+[
+  {
+    "id": 27,
+    "name": "Cloud Functions",
+    "createdAt": "2019-10-06T22:28:39.785Z",
+    "updatedAt": "2019-10-06T22:28:39.785Z",
+    "isProduct": true,
+    "iconName": "functions",
+    "zones": [
+      {
+        "id": "ru-central1-a",
+        "createdAt": "2019-11-19T16:31:31.652Z",
+        "updatedAt": "2019-11-19T16:31:34.477Z"
+      },
+      {
+        "id": "ru-central1-b",
+        "createdAt": "2019-11-19T16:31:47.251Z",
+        "updatedAt": "2019-11-19T16:31:49.376Z"
+      },
+      {
+        "id": "ru-central1-c",
+        "createdAt": "2019-11-19T16:32:07.559Z",
+        "updatedAt": "2019-11-19T16:32:10.495Z"
+      }
+    ],
+    "incidents": []
+  },
+  {
+    "id": 70,
+    "name": "Cloud Interconnect",
+    "createdAt": "2019-12-17T14:00:31.906Z",
+    "updatedAt": "2019-12-17T14:00:31.906Z",
+    "isProduct": true,
+    "iconName": "interconnect",
+    "zones": [
+      {
+        "id": "ru-central1-a",
+        "createdAt": "2019-11-19T16:31:31.652Z",
+        "updatedAt": "2019-11-19T16:31:34.477Z"
+      },
+      {
+        "id": "ru-central1-b",
+        "createdAt": "2019-11-19T16:31:47.251Z",
+        "updatedAt": "2019-11-19T16:31:49.376Z"
+      },
+      {
+        "id": "ru-central1-c",
+        "createdAt": "2019-11-19T16:32:07.559Z",
+        "updatedAt": "2019-11-19T16:32:10.495Z"
+      }
+    ],
+    "incidents": []
+  },
+  {
+    "id": 2,
+    "name": "Compute Cloud",
+    "createdAt": "2019-09-19T15:39:33.458Z",
+    "updatedAt": "2019-09-19T15:39:33.458Z",
+    "isProduct": true,
+    "iconName": "compute",
+    "zones": [
+      {
+        "id": "ru-central1-a",
+        "createdAt": "2019-11-19T16:31:31.652Z",
+        "updatedAt": "2019-11-19T16:31:34.477Z"
+      },
+      {
+        "id": "ru-central1-b",
+        "createdAt": "2019-11-19T16:31:47.251Z",
+        "updatedAt": "2019-11-19T16:31:49.376Z"
+      },
+      {
+        "id": "ru-central1-c",
+        "createdAt": "2019-11-19T16:32:07.559Z",
+        "updatedAt": "2019-11-19T16:32:10.495Z"
+      }
+    ],
+    "incidents": [
+      {
+        "title": "Проблемы с сетевой доступностью",
+        "report": null,
+        "id": 8,
+        "status": "resolved",
+        "level": "blocker",
+        "startDate": "2020-02-05T13:17:00.000Z",
+        "endDate": "2020-02-05T15:45:42.309Z",
+        "createdAt": "2020-02-05T15:13:56.628Z",
+        "updatedAt": "2020-02-06T07:46:11.418Z",
+        "zones": [
+          {
+            "id": "ru-central1-a",
+            "createdAt": "2019-11-19T16:31:31.652Z",
+            "updatedAt": "2019-11-19T16:31:34.477Z"
+          },
+          {
+            "id": "ru-central1-b",
+            "createdAt": "2019-11-19T16:31:47.251Z",
+            "updatedAt": "2019-11-19T16:31:49.376Z"
+          },
+          {
+            "id": "ru-central1-c",
+            "createdAt": "2019-11-19T16:32:07.559Z",
+            "updatedAt": "2019-11-19T16:32:10.495Z"
+          }
+        ],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Container Registry",
+    "createdAt": "2019-09-19T15:49:51.309Z",
+    "updatedAt": "2019-09-19T15:49:51.309Z",
+    "isProduct": true,
+    "iconName": "container-registry",
+    "zones": [
+      {
+        "id": "ru-central1-a",
+        "createdAt": "2019-11-19T16:31:31.652Z",
+        "updatedAt": "2019-11-19T16:31:34.477Z"
+      },
+      {
+        "id": "ru-central1-b",
+        "createdAt": "2019-11-19T16:31:47.251Z",
+        "updatedAt": "2019-11-19T16:31:49.376Z"
+      },
+      {
+        "id": "ru-central1-c",
+        "createdAt": "2019-11-19T16:32:07.559Z",
+        "updatedAt": "2019-11-19T16:32:10.495Z"
+      }
+    ],
+    "incidents": [
+      {
+        "title": "Проблемы с сетевой доступностью",
+        "report": null,
+        "id": 8,
+        "status": "resolved",
+        "level": "blocker",
+        "startDate": "2020-02-05T13:17:00.000Z",
+        "endDate": "2020-02-05T15:45:42.309Z",
+        "createdAt": "2020-02-05T15:13:56.628Z",
+        "updatedAt": "2020-02-06T07:46:11.418Z",
+        "zones": [
+          {
+            "id": "ru-central1-a",
+            "createdAt": "2019-11-19T16:31:31.652Z",
+            "updatedAt": "2019-11-19T16:31:34.477Z"
+          },
+          {
+            "id": "ru-central1-b",
+            "createdAt": "2019-11-19T16:31:47.251Z",
+            "updatedAt": "2019-11-19T16:31:49.376Z"
+          },
+          {
+            "id": "ru-central1-c",
+            "createdAt": "2019-11-19T16:32:07.559Z",
+            "updatedAt": "2019-11-19T16:32:10.495Z"
+          }
+        ],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Data Proc",
+    "createdAt": "2019-09-19T15:53:41.122Z",
+    "updatedAt": "2019-09-19T15:53:41.122Z",
+    "isProduct": true,
+    "iconName": "data-proc",
+    "zones": [
+      {
+        "id": "ru-central1-a",
+        "createdAt": "2019-11-19T16:31:31.652Z",
+        "updatedAt": "2019-11-19T16:31:34.477Z"
+      },
+      {
+        "id": "ru-central1-b",
+        "createdAt": "2019-11-19T16:31:47.251Z",
+        "updatedAt": "2019-11-19T16:31:49.376Z"
+      },
+      {
+        "id": "ru-central1-c",
+        "createdAt": "2019-11-19T16:32:07.559Z",
+        "updatedAt": "2019-11-19T16:32:10.495Z"
+      }
+    ],
+    "incidents": []
+  },
+  {
+    "id": 23,
+    "name": "DataLens",
+    "createdAt": "2019-09-19T16:04:55.831Z",
+    "updatedAt": "2019-09-19T16:04:55.831Z",
+    "isProduct": true,
+    "iconName": "datalens",
+    "zones": [
+      {
+        "id": "ru-central1-a",
+        "createdAt": "2019-11-19T16:31:31.652Z",
+        "updatedAt": "2019-11-19T16:31:34.477Z"
+      },
+      {
+        "id": "ru-central1-b",
+        "createdAt": "2019-11-19T16:31:47.251Z",
+        "updatedAt": "2019-11-19T16:31:49.376Z"
+      },
+      {
+        "id": "ru-central1-c",
+        "createdAt": "2019-11-19T16:32:07.559Z",
+        "updatedAt": "2019-11-19T16:32:10.495Z"
+      }
+    ],
+    "incidents": []
+  },
+  {
+    "id": 12,
+    "name": "DDoS Protection",
+    "createdAt": "2019-09-19T15:50:35.422Z",
+    "updatedAt": "2019-09-19T15:50:35.422Z",
+    "isProduct": true,
+    "iconName": "ddos-protection",
+    "zones": [
+      {
+        "id": "ru-central1-a",
+        "createdAt": "2019-11-19T16:31:31.652Z",
+        "updatedAt": "2019-11-19T16:31:34.477Z"
+      },
+      {
+        "id": "ru-central1-b",
+        "createdAt": "2019-11-19T16:31:47.251Z",
+        "updatedAt": "2019-11-19T16:31:49.376Z"
+      },
+      {
+        "id": "ru-central1-c",
+        "createdAt": "2019-11-19T16:32:07.559Z",
+        "updatedAt": "2019-11-19T16:32:10.495Z"
+      }
+    ],
+    "incidents": []
+  },
+  {
+    "id": 5,
+    "name": "Identity and Access Management",
+    "createdAt": "2019-09-19T15:46:54.485Z",
+    "updatedAt": "2019-09-19T15:46:54.485Z",
+    "isProduct": true,
+    "iconName": "iam",
+    "zones": [
+      {
+        "id": "ru-central1-a",
+        "createdAt": "2019-11-19T16:31:31.652Z",
+        "updatedAt": "2019-11-19T16:31:34.477Z"
+      },
+      {
+        "id": "ru-central1-b",
+        "createdAt": "2019-11-19T16:31:47.251Z",
+        "updatedAt": "2019-11-19T16:31:49.376Z"
+      },
+      {
+        "id": "ru-central1-c",
+        "createdAt": "2019-11-19T16:32:07.559Z",
+        "updatedAt": "2019-11-19T16:32:10.495Z"
+      }
+    ],
+    "incidents": []
+  },
+  {
+    "id": 8,
+    "name": "Instance Groups",
+    "createdAt": "2019-09-19T15:48:23.504Z",
+    "updatedAt": "2019-09-19T15:48:23.504Z",
+    "isProduct": true,
+    "iconName": "instance-groups",
+    "zones": [
+      {
+        "id": "ru-central1-a",
+        "createdAt": "2019-11-19T16:31:31.652Z",
+        "updatedAt": "2019-11-19T16:31:34.477Z"
+      },
+      {
+        "id": "ru-central1-b",
+        "createdAt": "2019-11-19T16:31:47.251Z",
+        "updatedAt": "2019-11-19T16:31:49.376Z"
+      },
+      {
+        "id": "ru-central1-c",
+        "createdAt": "2019-11-19T16:32:07.559Z",
+        "updatedAt": "2019-11-19T16:32:10.495Z"
+      }
+    ],
+    "incidents": []
+  },
+  {
+    "id": 69,
+    "name": "IoT Core",
+    "createdAt": "2019-12-17T13:52:00.522Z",
+    "updatedAt": "2019-12-17T13:52:00.522Z",
+    "isProduct": true,
+    "iconName": "iot-core",
+    "zones": [
+      {
+        "id": "ru-central1-a",
+        "createdAt": "2019-11-19T16:31:31.652Z",
+        "updatedAt": "2019-11-19T16:31:34.477Z"
+      },
+      {
+        "id": "ru-central1-b",
+        "createdAt": "2019-11-19T16:31:47.251Z",
+        "updatedAt": "2019-11-19T16:31:49.376Z"
+      },
+      {
+        "id": "ru-central1-c",
+        "createdAt": "2019-11-19T16:32:07.559Z",
+        "updatedAt": "2019-11-19T16:32:10.495Z"
+      }
+    ],
+    "incidents": []
+  },
+  {
+    "id": 35,
+    "name": "Key Management Service",
+    "createdAt": "2019-10-30T12:08:33.902Z",
+    "updatedAt": "2019-12-17T10:07:43.251Z",
+    "isProduct": true,
+    "iconName": "kms",
+    "zones": [
+      {
+        "id": "ru-central1-a",
+        "createdAt": "2019-11-19T16:31:31.652Z",
+        "updatedAt": "2019-11-19T16:31:34.477Z"
+      },
+      {
+        "id": "ru-central1-b",
+        "createdAt": "2019-11-19T16:31:47.251Z",
+        "updatedAt": "2019-11-19T16:31:49.376Z"
+      },
+      {
+        "id": "ru-central1-c",
+        "createdAt": "2019-11-19T16:32:07.559Z",
+        "updatedAt": "2019-11-19T16:32:10.495Z"
+      }
+    ],
+    "incidents": []
+  },
+  {
+    "id": 7,
+    "name": "Load Balancer",
+    "createdAt": "2019-09-19T15:47:16.156Z",
+    "updatedAt": "2019-09-19T15:47:16.156Z",
+    "isProduct": true,
+    "iconName": "load-balancer",
+    "zones": [
+      {
+        "id": "ru-central1-a",
+        "createdAt": "2019-11-19T16:31:31.652Z",
+        "updatedAt": "2019-11-19T16:31:34.477Z"
+      },
+      {
+        "id": "ru-central1-b",
+        "createdAt": "2019-11-19T16:31:47.251Z",
+        "updatedAt": "2019-11-19T16:31:49.376Z"
+      },
+      {
+        "id": "ru-central1-c",
+        "createdAt": "2019-11-19T16:32:07.559Z",
+        "updatedAt": "2019-11-19T16:32:10.495Z"
+      }
+    ],
+    "incidents": []
+  },
+  {
+    "id": 14,
+    "name": "Managed Service for ClickHouse",
+    "createdAt": "2019-09-19T15:51:06.348Z",
+    "updatedAt": "2019-09-19T15:51:06.348Z",
+    "isProduct": true,
+    "iconName": "managed-clickhouse",
+    "zones": [
+      {
+        "id": "ru-central1-a",
+        "createdAt": "2019-11-19T16:31:31.652Z",
+        "updatedAt": "2019-11-19T16:31:34.477Z"
+      },
+      {
+        "id": "ru-central1-b",
+        "createdAt": "2019-11-19T16:31:47.251Z",
+        "updatedAt": "2019-11-19T16:31:49.376Z"
+      },
+      {
+        "id": "ru-central1-c",
+        "createdAt": "2019-11-19T16:32:07.559Z",
+        "updatedAt": "2019-11-19T16:32:10.495Z"
+      }
+    ],
+    "incidents": [
+      {
+        "title": "Проблемы с сетевой доступностью",
+        "report": null,
+        "id": 8,
+        "status": "resolved",
+        "level": "blocker",
+        "startDate": "2020-02-05T13:17:00.000Z",
+        "endDate": "2020-02-05T15:45:42.309Z",
+        "createdAt": "2020-02-05T15:13:56.628Z",
+        "updatedAt": "2020-02-06T07:46:11.418Z",
+        "zones": [
+          {
+            "id": "ru-central1-a",
+            "createdAt": "2019-11-19T16:31:31.652Z",
+            "updatedAt": "2019-11-19T16:31:34.477Z"
+          },
+          {
+            "id": "ru-central1-b",
+            "createdAt": "2019-11-19T16:31:47.251Z",
+            "updatedAt": "2019-11-19T16:31:49.376Z"
+          },
+          {
+            "id": "ru-central1-c",
+            "createdAt": "2019-11-19T16:32:07.559Z",
+            "updatedAt": "2019-11-19T16:32:10.495Z"
+          }
+        ],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Managed Service for Kubernetes®",
+    "createdAt": "2019-09-19T15:50:14.774Z",
+    "updatedAt": "2019-09-19T15:50:14.774Z",
+    "isProduct": true,
+    "iconName": "managed-kubernetes",
+    "zones": [
+      {
+        "id": "ru-central1-a",
+        "createdAt": "2019-11-19T16:31:31.652Z",
+        "updatedAt": "2019-11-19T16:31:34.477Z"
+      },
+      {
+        "id": "ru-central1-b",
+        "createdAt": "2019-11-19T16:31:47.251Z",
+        "updatedAt": "2019-11-19T16:31:49.376Z"
+      },
+      {
+        "id": "ru-central1-c",
+        "createdAt": "2019-11-19T16:32:07.559Z",
+        "updatedAt": "2019-11-19T16:32:10.495Z"
+      }
+    ],
+    "incidents": [
+      {
+        "title": "Проблемы с сетевой доступностью",
+        "report": null,
+        "id": 8,
+        "status": "resolved",
+        "level": "blocker",
+        "startDate": "2020-02-05T13:17:00.000Z",
+        "endDate": "2020-02-05T15:45:42.309Z",
+        "createdAt": "2020-02-05T15:13:56.628Z",
+        "updatedAt": "2020-02-06T07:46:11.418Z",
+        "zones": [
+          {
+            "id": "ru-central1-a",
+            "createdAt": "2019-11-19T16:31:31.652Z",
+            "updatedAt": "2019-11-19T16:31:34.477Z"
+          },
+          {
+            "id": "ru-central1-b",
+            "createdAt": "2019-11-19T16:31:47.251Z",
+            "updatedAt": "2019-11-19T16:31:49.376Z"
+          },
+          {
+            "id": "ru-central1-c",
+            "createdAt": "2019-11-19T16:32:07.559Z",
+            "updatedAt": "2019-11-19T16:32:10.495Z"
+          }
+        ],
+        "comments": []
+      },
+      {
+        "title": "Проблемы с сервисом Managed Kubernetes",
+        "report": null,
+        "id": 7,
+        "status": "resolved",
+        "level": "critical",
+        "startDate": "2020-01-30T10:47:00.000Z",
+        "endDate": "2020-01-30T13:00:00.000Z",
+        "createdAt": "2020-01-30T11:57:03.518Z",
+        "updatedAt": "2020-01-31T17:38:11.970Z",
+        "zones": [
+          {
+            "id": "ru-central1-b",
+            "createdAt": "2019-11-19T16:31:47.251Z",
+            "updatedAt": "2019-11-19T16:31:49.376Z"
+          }
+        ],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Managed Service for MongoDB",
+    "createdAt": "2019-09-19T15:51:40.886Z",
+    "updatedAt": "2019-09-19T15:51:40.886Z",
+    "isProduct": true,
+    "iconName": "managed-mongodb",
+    "zones": [
+      {
+        "id": "ru-central1-a",
+        "createdAt": "2019-11-19T16:31:31.652Z",
+        "updatedAt": "2019-11-19T16:31:34.477Z"
+      },
+      {
+        "id": "ru-central1-b",
+        "createdAt": "2019-11-19T16:31:47.251Z",
+        "updatedAt": "2019-11-19T16:31:49.376Z"
+      },
+      {
+        "id": "ru-central1-c",
+        "createdAt": "2019-11-19T16:32:07.559Z",
+        "updatedAt": "2019-11-19T16:32:10.495Z"
+      }
+    ],
+    "incidents": [
+      {
+        "title": "Проблемы с сетевой доступностью",
+        "report": null,
+        "id": 8,
+        "status": "resolved",
+        "level": "blocker",
+        "startDate": "2020-02-05T13:17:00.000Z",
+        "endDate": "2020-02-05T15:45:42.309Z",
+        "createdAt": "2020-02-05T15:13:56.628Z",
+        "updatedAt": "2020-02-06T07:46:11.418Z",
+        "zones": [
+          {
+            "id": "ru-central1-a",
+            "createdAt": "2019-11-19T16:31:31.652Z",
+            "updatedAt": "2019-11-19T16:31:34.477Z"
+          },
+          {
+            "id": "ru-central1-b",
+            "createdAt": "2019-11-19T16:31:47.251Z",
+            "updatedAt": "2019-11-19T16:31:49.376Z"
+          },
+          {
+            "id": "ru-central1-c",
+            "createdAt": "2019-11-19T16:32:07.559Z",
+            "updatedAt": "2019-11-19T16:32:10.495Z"
+          }
+        ],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Managed Service for MySQL®",
+    "createdAt": "2019-09-19T15:51:49.623Z",
+    "updatedAt": "2019-09-19T15:51:49.623Z",
+    "isProduct": true,
+    "iconName": "managed-mysql",
+    "zones": [
+      {
+        "id": "ru-central1-a",
+        "createdAt": "2019-11-19T16:31:31.652Z",
+        "updatedAt": "2019-11-19T16:31:34.477Z"
+      },
+      {
+        "id": "ru-central1-b",
+        "createdAt": "2019-11-19T16:31:47.251Z",
+        "updatedAt": "2019-11-19T16:31:49.376Z"
+      },
+      {
+        "id": "ru-central1-c",
+        "createdAt": "2019-11-19T16:32:07.559Z",
+        "updatedAt": "2019-11-19T16:32:10.495Z"
+      }
+    ],
+    "incidents": [
+      {
+        "title": "Проблемы с сетевой доступностью",
+        "report": null,
+        "id": 8,
+        "status": "resolved",
+        "level": "blocker",
+        "startDate": "2020-02-05T13:17:00.000Z",
+        "endDate": "2020-02-05T15:45:42.309Z",
+        "createdAt": "2020-02-05T15:13:56.628Z",
+        "updatedAt": "2020-02-06T07:46:11.418Z",
+        "zones": [
+          {
+            "id": "ru-central1-a",
+            "createdAt": "2019-11-19T16:31:31.652Z",
+            "updatedAt": "2019-11-19T16:31:34.477Z"
+          },
+          {
+            "id": "ru-central1-b",
+            "createdAt": "2019-11-19T16:31:47.251Z",
+            "updatedAt": "2019-11-19T16:31:49.376Z"
+          },
+          {
+            "id": "ru-central1-c",
+            "createdAt": "2019-11-19T16:32:07.559Z",
+            "updatedAt": "2019-11-19T16:32:10.495Z"
+          }
+        ],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Managed Service for PostgreSQL",
+    "createdAt": "2019-09-19T15:50:43.983Z",
+    "updatedAt": "2019-09-19T15:50:43.983Z",
+    "isProduct": true,
+    "iconName": "managed-postgresql",
+    "zones": [
+      {
+        "id": "ru-central1-a",
+        "createdAt": "2019-11-19T16:31:31.652Z",
+        "updatedAt": "2019-11-19T16:31:34.477Z"
+      },
+      {
+        "id": "ru-central1-b",
+        "createdAt": "2019-11-19T16:31:47.251Z",
+        "updatedAt": "2019-11-19T16:31:49.376Z"
+      },
+      {
+        "id": "ru-central1-c",
+        "createdAt": "2019-11-19T16:32:07.559Z",
+        "updatedAt": "2019-11-19T16:32:10.495Z"
+      }
+    ],
+    "incidents": [
+      {
+        "title": "Проблемы с сетевой доступностью",
+        "report": null,
+        "id": 8,
+        "status": "resolved",
+        "level": "blocker",
+        "startDate": "2020-02-05T13:17:00.000Z",
+        "endDate": "2020-02-05T15:45:42.309Z",
+        "createdAt": "2020-02-05T15:13:56.628Z",
+        "updatedAt": "2020-02-06T07:46:11.418Z",
+        "zones": [
+          {
+            "id": "ru-central1-a",
+            "createdAt": "2019-11-19T16:31:31.652Z",
+            "updatedAt": "2019-11-19T16:31:34.477Z"
+          },
+          {
+            "id": "ru-central1-b",
+            "createdAt": "2019-11-19T16:31:47.251Z",
+            "updatedAt": "2019-11-19T16:31:49.376Z"
+          },
+          {
+            "id": "ru-central1-c",
+            "createdAt": "2019-11-19T16:32:07.559Z",
+            "updatedAt": "2019-11-19T16:32:10.495Z"
+          }
+        ],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Managed Service for Redis™",
+    "createdAt": "2019-09-19T15:52:34.922Z",
+    "updatedAt": "2019-09-19T15:52:34.922Z",
+    "isProduct": true,
+    "iconName": "managed-redis",
+    "zones": [
+      {
+        "id": "ru-central1-a",
+        "createdAt": "2019-11-19T16:31:31.652Z",
+        "updatedAt": "2019-11-19T16:31:34.477Z"
+      },
+      {
+        "id": "ru-central1-b",
+        "createdAt": "2019-11-19T16:31:47.251Z",
+        "updatedAt": "2019-11-19T16:31:49.376Z"
+      },
+      {
+        "id": "ru-central1-c",
+        "createdAt": "2019-11-19T16:32:07.559Z",
+        "updatedAt": "2019-11-19T16:32:10.495Z"
+      }
+    ],
+    "incidents": [
+      {
+        "title": "Проблемы с сетевой доступностью",
+        "report": null,
+        "id": 8,
+        "status": "resolved",
+        "level": "blocker",
+        "startDate": "2020-02-05T13:17:00.000Z",
+        "endDate": "2020-02-05T15:45:42.309Z",
+        "createdAt": "2020-02-05T15:13:56.628Z",
+        "updatedAt": "2020-02-06T07:46:11.418Z",
+        "zones": [
+          {
+            "id": "ru-central1-a",
+            "createdAt": "2019-11-19T16:31:31.652Z",
+            "updatedAt": "2019-11-19T16:31:34.477Z"
+          },
+          {
+            "id": "ru-central1-b",
+            "createdAt": "2019-11-19T16:31:47.251Z",
+            "updatedAt": "2019-11-19T16:31:49.376Z"
+          },
+          {
+            "id": "ru-central1-c",
+            "createdAt": "2019-11-19T16:32:07.559Z",
+            "updatedAt": "2019-11-19T16:32:10.495Z"
+          }
+        ],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Message Queue",
+    "createdAt": "2019-09-19T15:53:50.474Z",
+    "updatedAt": "2019-09-19T15:53:50.474Z",
+    "isProduct": true,
+    "iconName": "message-queue",
+    "zones": [
+      {
+        "id": "ru-central1-a",
+        "createdAt": "2019-11-19T16:31:31.652Z",
+        "updatedAt": "2019-11-19T16:31:34.477Z"
+      },
+      {
+        "id": "ru-central1-b",
+        "createdAt": "2019-11-19T16:31:47.251Z",
+        "updatedAt": "2019-11-19T16:31:49.376Z"
+      },
+      {
+        "id": "ru-central1-c",
+        "createdAt": "2019-11-19T16:32:07.559Z",
+        "updatedAt": "2019-11-19T16:32:10.495Z"
+      }
+    ],
+    "incidents": []
+  },
+  {
+    "id": 11,
+    "name": "Monitoring",
+    "createdAt": "2019-09-19T15:50:23.492Z",
+    "updatedAt": "2019-09-19T15:50:23.492Z",
+    "isProduct": true,
+    "iconName": "monitoring",
+    "zones": [
+      {
+        "id": "ru-central1-a",
+        "createdAt": "2019-11-19T16:31:31.652Z",
+        "updatedAt": "2019-11-19T16:31:34.477Z"
+      },
+      {
+        "id": "ru-central1-b",
+        "createdAt": "2019-11-19T16:31:47.251Z",
+        "updatedAt": "2019-11-19T16:31:49.376Z"
+      },
+      {
+        "id": "ru-central1-c",
+        "createdAt": "2019-11-19T16:32:07.559Z",
+        "updatedAt": "2019-11-19T16:32:10.495Z"
+      }
+    ],
+    "incidents": []
+  },
+  {
+    "id": 4,
+    "name": "Object Storage",
+    "createdAt": "2019-09-19T15:46:24.423Z",
+    "updatedAt": "2019-09-19T15:46:24.423Z",
+    "isProduct": true,
+    "iconName": "storage",
+    "zones": [],
+    "incidents": [
+      {
+        "title": "Проблемы с сетевой доступностью",
+        "report": null,
+        "id": 8,
+        "status": "resolved",
+        "level": "blocker",
+        "startDate": "2020-02-05T13:17:00.000Z",
+        "endDate": "2020-02-05T15:45:42.309Z",
+        "createdAt": "2020-02-05T15:13:56.628Z",
+        "updatedAt": "2020-02-06T07:46:11.418Z",
+        "zones": [
+          {
+            "id": "ru-central1-a",
+            "createdAt": "2019-11-19T16:31:31.652Z",
+            "updatedAt": "2019-11-19T16:31:34.477Z"
+          },
+          {
+            "id": "ru-central1-b",
+            "createdAt": "2019-11-19T16:31:47.251Z",
+            "updatedAt": "2019-11-19T16:31:49.376Z"
+          },
+          {
+            "id": "ru-central1-c",
+            "createdAt": "2019-11-19T16:32:07.559Z",
+            "updatedAt": "2019-11-19T16:32:10.495Z"
+          }
+        ],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Resource Manager",
+    "createdAt": "2019-09-19T15:47:05.828Z",
+    "updatedAt": "2019-09-19T15:47:05.828Z",
+    "isProduct": true,
+    "iconName": "resource-manager",
+    "zones": [
+      {
+        "id": "ru-central1-a",
+        "createdAt": "2019-11-19T16:31:31.652Z",
+        "updatedAt": "2019-11-19T16:31:34.477Z"
+      },
+      {
+        "id": "ru-central1-b",
+        "createdAt": "2019-11-19T16:31:47.251Z",
+        "updatedAt": "2019-11-19T16:31:49.376Z"
+      },
+      {
+        "id": "ru-central1-c",
+        "createdAt": "2019-11-19T16:32:07.559Z",
+        "updatedAt": "2019-11-19T16:32:10.495Z"
+      }
+    ],
+    "incidents": []
+  },
+  {
+    "id": 20,
+    "name": "SpeechKit",
+    "createdAt": "2019-09-19T16:04:24.078Z",
+    "updatedAt": "2019-09-19T16:04:24.078Z",
+    "isProduct": true,
+    "iconName": "speechkit",
+    "zones": [
+      {
+        "id": "ru-central1-a",
+        "createdAt": "2019-11-19T16:31:31.652Z",
+        "updatedAt": "2019-11-19T16:31:34.477Z"
+      },
+      {
+        "id": "ru-central1-b",
+        "createdAt": "2019-11-19T16:31:47.251Z",
+        "updatedAt": "2019-11-19T16:31:49.376Z"
+      },
+      {
+        "id": "ru-central1-c",
+        "createdAt": "2019-11-19T16:32:07.559Z",
+        "updatedAt": "2019-11-19T16:32:10.495Z"
+      }
+    ],
+    "incidents": [
+      {
+        "title": "Проблемы с сетевой доступностью",
+        "report": null,
+        "id": 8,
+        "status": "resolved",
+        "level": "blocker",
+        "startDate": "2020-02-05T13:17:00.000Z",
+        "endDate": "2020-02-05T15:45:42.309Z",
+        "createdAt": "2020-02-05T15:13:56.628Z",
+        "updatedAt": "2020-02-06T07:46:11.418Z",
+        "zones": [
+          {
+            "id": "ru-central1-a",
+            "createdAt": "2019-11-19T16:31:31.652Z",
+            "updatedAt": "2019-11-19T16:31:34.477Z"
+          },
+          {
+            "id": "ru-central1-b",
+            "createdAt": "2019-11-19T16:31:47.251Z",
+            "updatedAt": "2019-11-19T16:31:49.376Z"
+          },
+          {
+            "id": "ru-central1-c",
+            "createdAt": "2019-11-19T16:32:07.559Z",
+            "updatedAt": "2019-11-19T16:32:10.495Z"
+          }
+        ],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Translate",
+    "createdAt": "2019-09-19T16:04:36.785Z",
+    "updatedAt": "2019-09-19T16:04:36.785Z",
+    "isProduct": true,
+    "iconName": "translate",
+    "zones": [
+      {
+        "id": "ru-central1-a",
+        "createdAt": "2019-11-19T16:31:31.652Z",
+        "updatedAt": "2019-11-19T16:31:34.477Z"
+      },
+      {
+        "id": "ru-central1-b",
+        "createdAt": "2019-11-19T16:31:47.251Z",
+        "updatedAt": "2019-11-19T16:31:49.376Z"
+      },
+      {
+        "id": "ru-central1-c",
+        "createdAt": "2019-11-19T16:32:07.559Z",
+        "updatedAt": "2019-11-19T16:32:10.495Z"
+      }
+    ],
+    "incidents": []
+  },
+  {
+    "id": 3,
+    "name": "Virtual Private Cloud",
+    "createdAt": "2019-09-19T15:41:22.025Z",
+    "updatedAt": "2019-09-19T15:41:22.025Z",
+    "isProduct": true,
+    "iconName": "vpc",
+    "zones": [
+      {
+        "id": "ru-central1-a",
+        "createdAt": "2019-11-19T16:31:31.652Z",
+        "updatedAt": "2019-11-19T16:31:34.477Z"
+      },
+      {
+        "id": "ru-central1-b",
+        "createdAt": "2019-11-19T16:31:47.251Z",
+        "updatedAt": "2019-11-19T16:31:49.376Z"
+      },
+      {
+        "id": "ru-central1-c",
+        "createdAt": "2019-11-19T16:32:07.559Z",
+        "updatedAt": "2019-11-19T16:32:10.495Z"
+      }
+    ],
+    "incidents": [
+      {
+        "title": "Проблемы с сетевой доступностью",
+        "report": null,
+        "id": 8,
+        "status": "resolved",
+        "level": "blocker",
+        "startDate": "2020-02-05T13:17:00.000Z",
+        "endDate": "2020-02-05T15:45:42.309Z",
+        "createdAt": "2020-02-05T15:13:56.628Z",
+        "updatedAt": "2020-02-06T07:46:11.418Z",
+        "zones": [
+          {
+            "id": "ru-central1-a",
+            "createdAt": "2019-11-19T16:31:31.652Z",
+            "updatedAt": "2019-11-19T16:31:34.477Z"
+          },
+          {
+            "id": "ru-central1-b",
+            "createdAt": "2019-11-19T16:31:47.251Z",
+            "updatedAt": "2019-11-19T16:31:49.376Z"
+          },
+          {
+            "id": "ru-central1-c",
+            "createdAt": "2019-11-19T16:32:07.559Z",
+            "updatedAt": "2019-11-19T16:32:10.495Z"
+          }
+        ],
+        "comments": []
+      },
+      {
+        "title": "Проблемы с сетевой доступностью",
+        "report": null,
+        "id": 5,
+        "status": "resolved",
+        "level": "critical",
+        "startDate": "2020-01-15T09:04:00.000Z",
+        "endDate": "2020-01-15T10:26:42.739Z",
+        "createdAt": "2020-01-15T09:56:45.399Z",
+        "updatedAt": "2020-01-15T10:26:42.911Z",
+        "zones": [
+          {
+            "id": "ru-central1-a",
+            "createdAt": "2019-11-19T16:31:31.652Z",
+            "updatedAt": "2019-11-19T16:31:34.477Z"
+          }
+        ],
+        "comments": []
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Vision",
+    "createdAt": "2019-09-19T16:04:48.333Z",
+    "updatedAt": "2019-09-19T16:04:48.333Z",
+    "isProduct": true,
+    "iconName": "vision",
+    "zones": [
+      {
+        "id": "ru-central1-a",
+        "createdAt": "2019-11-19T16:31:31.652Z",
+        "updatedAt": "2019-11-19T16:31:34.477Z"
+      },
+      {
+        "id": "ru-central1-b",
+        "createdAt": "2019-11-19T16:31:47.251Z",
+        "updatedAt": "2019-11-19T16:31:49.376Z"
+      },
+      {
+        "id": "ru-central1-c",
+        "createdAt": "2019-11-19T16:32:07.559Z",
+        "updatedAt": "2019-11-19T16:32:10.495Z"
+      }
+    ],
+    "incidents": []
+  },
+  {
+    "id": 68,
+    "name": "Yandex Database",
+    "createdAt": "2019-12-17T10:07:30.350Z",
+    "updatedAt": "2019-12-17T10:07:30.350Z",
+    "isProduct": true,
+    "iconName": "ydb",
+    "zones": [
+      {
+        "id": "ru-central1-a",
+        "createdAt": "2019-11-19T16:31:31.652Z",
+        "updatedAt": "2019-11-19T16:31:34.477Z"
+      },
+      {
+        "id": "ru-central1-b",
+        "createdAt": "2019-11-19T16:31:47.251Z",
+        "updatedAt": "2019-11-19T16:31:49.376Z"
+      },
+      {
+        "id": "ru-central1-c",
+        "createdAt": "2019-11-19T16:32:07.559Z",
+        "updatedAt": "2019-11-19T16:32:10.495Z"
+      }
+    ],
+    "incidents": []
+  }
+]
